@@ -7,7 +7,7 @@ export default function ErrorPage() {
       <MainNavigation />
       <main>
         <h1>Something went wrong!</h1>
-        <p>Coul not found this page.</p>
+        <p>Could not found this page.</p>
       </main>
     </Fragment>
   );
